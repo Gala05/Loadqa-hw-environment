@@ -1,0 +1,8 @@
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/a376fa4a-2e06-44a1-9223-748001573c60)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/9202e18c-cad1-4bf8-bb2e-55f2a5dac1a4)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/bd14e0b3-7f2f-4513-b2cb-e7019176a70a)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/195347f3-b9a3-4a61-a7e4-28dc38488b70)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/6e53d62e-0ff2-40fd-8146-5407d9fc53c4)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/1073c3e4-3cb1-4785-bb81-0957e973545d)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/c74a70b1-a1f6-4006-8267-5a0514db0bd9)
+![image](https://github.com/Gala05/Loadqa-hw-environment/assets/122028222/f6ab6034-8d72-4196-969c-d2d8107773b1)
